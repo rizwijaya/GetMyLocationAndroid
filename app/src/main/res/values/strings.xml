@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">belajargps</string>
+    <string name="Lattitude">Latitude</string>
+    <string name="Longitude">Longitude</string>
+    <string name="kalibrasi">Kalibrasi</string>
+    <string name="lokasi">Lokasi</string>
+    <string name="address">Address</string>
+    <string name="description">logo</string>
+    <string name="mylocation">MyLocation</string>
+</resources>
